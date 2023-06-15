@@ -12,3 +12,10 @@ Creative Director: Platinum Creators (Kuma) <br>
 Instagram: https://www.instagram.com/kuma.vrc/ <br>
 Discord: https://discord.gg/EdWGgc4xRc
 ![vrc_banner-1](https://github.com/demetrideskepsi/random-color-blender-addon/assets/135911577/d5670931-4c9e-4c23-a123-b6accfe8f13b)
+
+
+Collaboration with 
+https://github.com/demetrideskepsi <br>
+email: demetrideskepsi@gmail.com <br>
+IG: https://www.instagram.com/demetrideskepsi/ <br>
+FB: https://www.facebook.com/DemetrideSkepsi/
